@@ -5,7 +5,7 @@
 > **Note**
 > This Readme is a WIP and will be continuously updated as project grows.
 
-# Battle Arena
+# Calculator App
 
 This is a very simple Vue js project building a calculator app to understand some simple concepts of vue js. 
 
